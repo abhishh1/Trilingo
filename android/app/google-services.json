@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205644893396",
+    "firebase_url": "https://trilingo-f3a83.firebaseio.com",
+    "project_id": "trilingo-f3a83",
+    "storage_bucket": "trilingo-f3a83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205644893396:android:4d8077cbdd7623cabeff41",
+        "android_client_info": {
+          "package_name": "com.example.trilingo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205644893396-3o17aim7gig9o0q2ik8d51sbadu5rkb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trilingo",
+            "certificate_hash": "6cddd8b2e5d241fc8c9a159c78f6aaef625dd263"
+          }
+        },
+        {
+          "client_id": "205644893396-tpu4blep2k200s2804dugonq85849l29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmWTgP9mfGa_BNm2Cbzemsdt7fDCbKNLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205644893396-tpu4blep2k200s2804dugonq85849l29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
